@@ -1,4 +1,6 @@
 A simple test calling a c-func from node using node-ffi.
-To run it call
-	node hello.js [arg]
+To run 
+    node-waf configure build	
+    node hello.js [arg]
+
 
