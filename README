@@ -1,4 +1,4 @@
 A simple test calling a c-func from node using node-ffi.
 To run it call
-	node hello.js
+	node hello.js [arg]
 
